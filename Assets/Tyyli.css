@@ -1,0 +1,18 @@
+﻿.nappi {
+    padding: 30;
+    font-weight: bold;
+    color: yellow;
+    background: black;
+    border-radius: 40;
+    margin: 60 40 40 40;
+}
+
+.teksti {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32;
+}
+
+.body {
+    margin-top: 100;
+}
